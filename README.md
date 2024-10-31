@@ -1,6 +1,6 @@
 # Google Apps Script-AddGuest
 
-### Google Apps Script OAuth2 Service Account Authentication with Google Workspace Calendar and Admin APIs
+Google Apps Script OAuth2 Service Account Authentication with Google Workspace Calendar and Admin APIs
 
 This script is a Google Apps Script designed for authenticating a Google Workspace service account using OAuth2. It allows for event and group management on Google Calendar and Google Admin APIs.
 
